@@ -1,1 +1,5 @@
-
+blank_issues_enabled: false
+contact_links:
+  - name: Install guide and troubleshooting
+    url: https://github.com/itsliberrytastyy/YouTube-GIFS-Downloader#install
+    about: How to load the extension, and what its error messages mean.
