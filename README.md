@@ -32,7 +32,7 @@
 > [!WARNING]
 > **Posting GIFs is broken right now.** Since 14 October 2026 YouTube refuses GIF comments sent from desktop. For most people every try fails, whether it has text or not, and whether it is a comment or a reply. The cause is on YouTube's side. Reinstalling, updating or picking another GIF will not fix it. Searching and the picker still work.
 >
-> I have not found a way around it yet. **If you find one, open a pull request and I will review and merge it.** What is known so far, and where to report, is in [#93](https://github.com/itsliberrytastyy/YouTube-GIFS-Downloader/issues/93). Please add to that issue instead of opening a new one.
+> I have not found a way around it yet. **If you find one, open a pull request and I will review and merge it.** What is known so far, and where to report, is in [#93](https://github.com/itsliberrytastyy/YouTube-GIFS-Downloader/issues/93). Please add to that issue instead of opening a new one. (original gifs downloader is from https://github.com/rayytor/desktop_gifs
 
 YouTube's mobile app can attach a GIF to a comment; the desktop site has no button for it. Desktop GIFs adds one, next to the emoji button:
 
